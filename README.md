@@ -42,13 +42,13 @@ pytest .
 ## install
 
 ```console
-pip install git+https://github.com/moskomule/homura
+pip install git+https://github.com/AiMizuno/homura
 ```
 
 or
 
 ```console
-git clone https://github.com/moskomule/homura
+git clone https://github.com/AiMizuno/homura
 cd homura; pip install -e .
 ```
 
